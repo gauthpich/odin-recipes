@@ -8,6 +8,7 @@ h1 {
     text-align: center;
     font-size: 50px;
     font-weight: bold;
+    padding: 10px;
 }
 
 a {
@@ -15,6 +16,7 @@ a {
     font-size: 25px;
     font-weight: bold;
     margin-right: 50px;
+    padding: 10px;
     color: red;
 }
 
